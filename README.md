@@ -15,3 +15,4 @@ API: `http://localhost:5000`
 - `PATCH /api/appointments/:id/status` (Bearer token required)
 "# physiotherapy-backend" 
 "# physiotherapy-backend" 
+"# physiotherapy-backend" 
